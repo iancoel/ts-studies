@@ -27,3 +27,4 @@ ninja = {
   belt: 'orange',
   age: 15,
 };
+//it has to get the same properties as it first was declared, no more nor less
