@@ -7,7 +7,7 @@ greet1 = () => {
   console.log("hello, again");
 };
 
-//If your function returns nothing, technically it returns 'void' that represents a complete lack of a return value
+//If your function returns nothing, technically it returns 'void' that represents a complete lack of a return value. In javascript, it becomes undefined
 const add = (a: number, b: number, c?: number | string) => {
   console.log(a + b);
   console.log(c);
